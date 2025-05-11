@@ -56,7 +56,7 @@ text
 
 3. Install frontend dependencies and start the React app:
 
-cd ../frontend
+cd ../ecommerce-app
 npm install
 npm start
 
@@ -80,7 +80,7 @@ text
 ## Folder Structure
 
 /backend # Node.js Express backend API
-/frontend # React frontend application
+/ecommerce-app(frontend) # React frontend application
 
 text
 
